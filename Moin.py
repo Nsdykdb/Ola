@@ -5,10 +5,10 @@ import os
 import uuid
 
 # Insert your Telegram bot token here
-bot = telebot.TeleBot('YOUR_TELEGRAM_BOT_TOKEN_HERE')
+bot = telebot.TeleBot('8031510326:AAHWNQ342W4pH97eMefegHD64M1RsrFNnik')
 
 # Admin user IDs
-admin_id = ["YOUR_ADMIN_ID_HERE", "7209762563"]
+admin_id = ["YOUR_ADMIN_ID_HERE", "6485336955"]
 
 # File to store allowed user IDs and their subscription expiry
 USER_FILE = "users.txt"
